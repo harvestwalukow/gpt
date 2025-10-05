@@ -1,5 +1,7 @@
 # GPT From Scratch
 
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" height="32" alt="GitHub">](https://github.com/harvestwalukow/gpt)
+
 Hi! I'm currently working on building my own GPT based on the famous paper [Attention Is All You Need](https://arxiv.org/pdf/1706.03762).
 
 For now, this repository contains:
